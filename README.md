@@ -1,3 +1,4 @@
-# Python, Pandas and Data Analysis
+# Lecture Notes to jot down my thoughts
 
-Analysis and findings on Numpy and Pandas
+## Testing in Python
+## Analysis and findings on Numpy and Pandas
