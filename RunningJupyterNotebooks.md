@@ -33,12 +33,12 @@ jupyter notebook
 This will open up a browser instance with a file list of all files in the
 directory in which you issued the command
 
-![iPython file list](./ipythonfilelist.png)
+![iPython file list](https://raw.githubusercontent.com/nikhilpanchal/lecturenotebooks/master/ipythonfilelist.png)
 
 Click on the notebook that you want to run, which will open it up in a
 new tab
 
-![iPython open notebook](./ipythonopennotebook.png)
+![iPython open notebook](https://raw.githubusercontent.com/nikhilpanchal/lecturenotebooks/master/ipythonopennotebook.png)
 
 Once your in an open notebook, you can execute the code in each cell
 by placing the cursor in that cell and hitting `Ctrl-Enter`. Navigate to the
@@ -47,7 +47,7 @@ provides a nice way to have inline, live code running alongside
 documentation. You should try to tweak and modify some of the code and
 run it to understand the concept better.
 
-**Be mindful that the order of execution of cells matter. If you have
+**Be mindful that the order of execution of the cells matters. If you have
 declared and initialized a variable in one cell and you use it in another
 make sure you run the first cell before you run the second one. Not doing
 so will lead to an error**
