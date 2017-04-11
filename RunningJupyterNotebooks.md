@@ -41,7 +41,7 @@ new tab
 ![iPython open notebook](./ipythonopennotebook.png)
 
 Once your in an open notebook, you can execute the code in each cell
-by placing the cursor in that cell and hitting `Ctrl-C`. Navigate to the
+by placing the cursor in that cell and hitting `Ctrl-Enter`. Navigate to the
 Cell menu on the page and look at the other commands you can run. iPython
 provides a nice way to have inline, live code running alongside
 documentation. You should try to tweak and modify some of the code and
