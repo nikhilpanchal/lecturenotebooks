@@ -28,3 +28,8 @@ class RemovalServiceTest(TestCase):
         service.rm("existing filename")
 
         mock_os.remove.assert_called_with("existing filename")
+
+
+    def blank_func(self):
+        print("Hello World")
+
